@@ -1,0 +1,27 @@
+baseURL = 'https://wgfm.frl/'
+languageCode = 'en-us'
+title = "wgfm.frl"
+
+theme = "tale"
+
+pluralizelisttitles = "false"
+
+sectionPagesMenu = "main"
+
+[author]
+  name = "Werner Hofstra"
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'tango'
+    tabWidth = 4
