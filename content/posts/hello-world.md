@@ -2,7 +2,6 @@
 title: "Hello, World"
 author: "Werner Hofstra"
 date: 2021-11-07T21:04:54+01:00
-draft: false
 ---
 
 Hi, I'm Werner, and welcome to my blog! I am a software engineer,
